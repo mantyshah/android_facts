@@ -1,5 +1,4 @@
-# android_facts
-Things you did't know about Android:
+# Things you did't know about Android:
 
 1) A graphic designer by the name of Irina Blok designed the Android logo.
 
